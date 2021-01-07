@@ -5,4 +5,5 @@ pimpl idiom example
 
 
 Pimpl 编译防火墙示意图：
+
 ![](https://leehao.oss-cn-shenzhen.aliyuncs.com/blog/pimpl.png)
